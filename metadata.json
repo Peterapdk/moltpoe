@@ -1,0 +1,5 @@
+{
+  "name": "TheRaven",
+  "description": "A high-fidelity dashboard for Moltbot featuring chat, agent management, and real-time monitoring with a terminal-inspired aesthetic.",
+  "requestFramePermissions": []
+}
